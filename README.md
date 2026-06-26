@@ -12,7 +12,7 @@ Please ⭐️ this repo and share it with others
  ![Dark calculator screenshot](screenshots/scientific-dark.png) | ![Colored calculator screenshot](screenshots/standard-light.png)
 
 ## Requirements 🔧
-* Java 11 or higher.
+* Java 11 or higher versions.
 
 ## Installation 🔌
 1. Press the **Fork** button (top right the page) to save copy of this project on your account.
